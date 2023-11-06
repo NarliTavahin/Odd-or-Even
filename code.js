@@ -9,7 +9,7 @@ function OddOrEven(number) {
         document.getElementById("out-put").value = number + " is an Even Number";
 
     else 
-        document.getElementById("out-put").value = number + " is an Odd Number";
+        document.getElementById("out-put").value = number + " is a Odd Number";
         
 
     return OddOrEven(number);
